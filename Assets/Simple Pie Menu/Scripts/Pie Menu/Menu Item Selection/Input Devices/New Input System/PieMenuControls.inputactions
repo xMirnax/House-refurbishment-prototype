@@ -1,0 +1,40 @@
+{
+    "name": "PieMenuControls",
+    "maps": [
+        {
+            "name": "MouseAndKeyboard",
+            "id": "57d71994-ef4d-44b0-b848-eb4cd65d2dd8",
+            "actions": [
+                {
+                    "name": "Selection",
+                    "type": "Button",
+                    "id": "758310ad-2d2f-441a-a069-a787082fcc8f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Close",
+                    "type": "Button",
+                    "id": "c034a993-d15b-4eba-bc13-ad64b802bef5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Pointer Position",
+                    "type": "Value",
+                    "id": "73cdcf3e-1545-47e1-b6c5-d6996058bbf8",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
