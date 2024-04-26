@@ -6,3 +6,5 @@ This house refurbishment prototype takes the fun mechanics from House Flipper an
 ## Core features
 - Wall painting
 - Picking up and throwing trash
+
+![](https://github.com/xMirnax/House-refurbishment-prototype/blob/main/housePrototypeGif.gif)
